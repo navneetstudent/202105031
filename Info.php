@@ -39,7 +39,7 @@
 <h1> What is Yoga</h1>
 <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="Info.php">Types</a></li>
+        <li><a href="Info.php">Info</a></li>
         <li><a href="about.html"> About</a></li>
  </ul>
 </nav>
